@@ -103,7 +103,7 @@
  'Pg102' => {'offset' => '3550.36', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg103' => {'offset' => '3583.36', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg104' => {'offset' => '3622.38', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg105' => {'offset' => '3660.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg105' => {'offset' => '3660.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg106' => {'offset' => '3697.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg107' => {'offset' => '3737.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg108' => {'offset' => '3772.15', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -1659,12 +1659,12 @@ $::proofers{'276'}[4] = 'Long Green';
 $::proofers{'276'}[5] = 'cmspence';
 
 $::operationshash{'Check Character Cnts'}='2013-09-24 22:15';
-$::operationshash{'Found last page separator'}='2013-09-23 20:22';
-$::operationshash{'Begin Page Separators Fixup'}='2013-09-23 20:22';
 $::operationshash{'Check hyphens'}='2013-09-24 22:18';
-$::operationshash{'Fixup Routine'}='2013-09-23 20:06';
+$::operationshash{'Begin Page Separators Fixup'}='2013-09-23 20:22';
+$::operationshash{'Found last page separator'}='2013-09-23 20:22';
 $::operationshash{'Check spelling wordfrequency'}='2013-09-24 22:13';
-$::operationshash{'Open /home/wojtek/dp/pp/misteryum/project/misteryum.txt'}='2013-09-25 19:52';
+$::operationshash{'Fixup Routine'}='2013-09-23 20:06';
+$::operationshash{'Open /home/wojtek/dp/pp/misteryum/project/misteryum.txt'}='2013-09-26 20:50';
 $::operationshash{'Check alpha/num'}='2013-09-24 22:18';
 $::operationshash{'Found no more /#..#/ blocks'}='2013-09-21 22:53';
 $::operationshash{'View project comments locally'}='2013-09-21 21:07';
@@ -1673,10 +1673,10 @@ $::operationshash{'Gutcheck'}='2013-09-25 19:53';
 $::operationshash{'WF Check Ital/Bold/SC'}='2013-09-24 22:22';
 $::operationshash{'Check emdashes'}='2013-09-24 22:17';
 $::operationshash{'Check , Upper'}='2013-09-24 22:21';
-$::operationshash{'View project page online'}='2013-09-21 21:07';
 $::operationshash{'Word Frequency'}='2013-09-24 22:15';
-$::operationshash{'Check MiXeD CasE'}='2013-09-24 22:19';
+$::operationshash{'View project page online'}='2013-09-21 21:07';
 $::operationshash{'Check Accents'}='2013-09-24 22:20';
+$::operationshash{'Check MiXeD CasE'}='2013-09-24 22:19';
 $::operationshash{'Check words with possible ligatures'}='2013-09-24 22:23';
 $::operationshash{'Check . lower'}='2013-09-24 22:21';
 $::operationshash{'Remove end-of-line spaces'}='2013-09-23 20:08';
