@@ -1,30 +1,40 @@
+<!-- this is misteryum.src as of 29-Sep-2013 -->
+<property name='display title' content="H. O. Garlikowska - Misteryum">
+<meta name="DC.Creator" content="Helena Orlicz-Garlikowska">
+<meta name="DC.Title" content="Misteryum">
+<meta name="DC.Language" content="pl">
+<meta name="DC.Created" content="1909">
+<macro SIGN='rend="mr:2em"'>
 
 
 
 
-/*
-H. O. GARLIKOWSKA.
+<lg rend="center">
+<l rend="fs:1.4em">H. O. GARLIKOWSKA.</l>
+<tb rend="w:3em">
 
-MISTERYUM.
+<l rend="fs:3em">MISTERYUM.</l>
 
-OPOWIEŚĆ EROTYCZNA.
+<l rend="fs:1.1em">OPOWIEŚĆ EROTYCZNA.</l>
 
 [Illustration]
 
-WARSZAWA.
+<l rend="fs:1.1em">WARSZAWA.</l>
 
-E. WENDE i S-ka. (T. HIŹ i A. TURKUŁ).
+<l rend="fs:1.1em">E. WENDE i S-ka. (T. HIŹ i A. TURKUŁ).</l>
 
-1909.
-*/
-
-
+<l rend="fs:1.1em">1909.</l>
+</lg>
 
 
-/*
+
+
+<tb rend="st:double w:100%">
+
+<lg rend="center fs:0.8em">
 Druk L. Bilińskiego i W. Maślankiewicza,
 Nowogrodzka 17.
-*/
+</lg>
 
 
 
@@ -3194,21 +3204,21 @@ się o godzinie, w której Lilith wyjechała.
 
 <tb>
 
-/#
+<quote>
 --Jest mi przerażająco smutno w tej
 powrotnej drodze, panie Ada!
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
 Przyszły do Adama te pierwsze pisane
 jej słowa na malowanej kartce, potem,
 gdy już wrócił do siebie i pracy, przyszła
 druga.
 
-/#
+<quote>
 --Siedzę w błękitnem pudełku swego
 pokoju i ślę obiecaną kartkę, ta z drogi
 była tylko niespodziewanym dodatkiem.
@@ -3228,12 +3238,12 @@ pomieścić się nie chcą, a streścićby je można
 tak prędko i krótko, lecz po co? może
 doprawdy to wszystko ułuda?
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 --Szczerość uważam za konieczność,
 pisanie jest to bowiem łączenie myśli z myślą.
 Konwenans już tylu ludziom psuje
@@ -3255,12 +3265,12 @@ na którą tak bardzo długo oczekiwałam,
 sądzę, że zawsze tak nie będzie i proszę,
 aby tak nie było.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 --Księżyc jest wprost mego okna
 i patrzy na mnie, jak wtedy na nas, gdy
 po raz pierwszy szliśmy oboje wysrebrzoną
@@ -3286,15 +3296,15 @@ i tylko jasność pańskiej odkrytej głowy
 majaczyła, jak zjawisko w smutnym
 śnie.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
-/*
+<quote>
+<l rend"center">
 po północy:
-*/
+</l>
 
 Widzę z tych paru słów pańskich,
 napisanych na prędce, że uczyniłam panu
@@ -3326,12 +3336,12 @@ górskich wycieczek.
 Czy są chwile, w których pan o niej
 myśli?
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Teraz, po wysłaniu listu, odebrałam
 pańską kartę, natychmiast więc donoszę
 o tem.
@@ -3343,24 +3353,24 @@ stało.
 Jak to dobrze, iż pomiędzy nami znowu
 harmonja!
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Chora jestem: gorączka, kaszel, rozdrażnienie
 i bezsenność, czyli nerwy. Jeśli
 tak potrwa, to nie przyjadę, aż kiedy,
 kiedy... A mieliśmy się zobaczyć za dni
 kilkanaście.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Naturalnie nie powinnam już pisać
 do pana wcale, jego bowiem impertynenckie
 milczenie mówi za siebie.
@@ -3410,12 +3420,12 @@ Gdzież się podziewa urok przenoszenia
 odruchów duszy? Czy pan pamięta,
 jak mnie pan prosił, abym pisała?
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Chce pan, abym wytłómaczyła, czemu
 postanowiłam nie pisać więcej. Piszę
 zanadto szczerze, a wiem, iż się to panu
@@ -3436,12 +3446,12 @@ mógł wiedzieć, jak się męczę i co we mnie
 jest... to byłby pan innym... choć ja wiem,
 że pan będzie innym i pójdzie za mną.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Chodziłam po list--i zawód. Wróciłam
 późno wieczorem i na biurku swojem
 znalazłam wiązankę z róż, gwoździków
@@ -3453,12 +3463,12 @@ pańskie oczy, gdy czasem tak bardzo zciemniały
 i takie były inne, szczególne i spoglądały
 na mnie dziwnie, dziwnie...
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Nie zgadzam się, że pan nie umie
 pisać, zresztą nie idzie mi o piśmiennicze
 arcydzieła, ale o szczere słowo.
@@ -3482,12 +3492,12 @@ po co więc usiłować!
 Wkrótce zobaczymy się, bo się zobaczyć
 musimy.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Panie Ada, doprawdy żal mi naszych
 wspólnych wieczorów i wszystkich tamtych
 chwil... Podówczas bowiem wiedziałam,
@@ -3513,12 +3523,12 @@ innym. Czy jednak potrafię przemienić
 pana? Czasami w to wątpię i mam
 ochotę od pana odejść.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 W tej chwili otrzymałam kartę, nie
 mogę jej zrozumieć. Co to ma znaczyć:
 „będę w przejeździe i mam nadzieję zobaczyć
@@ -3536,12 +3546,12 @@ Czekam odpowiedzi. Posłałam przedtem
 do pana znowu zły list, proszę wybaczyć,
 byłam bardzo rozdrażniona.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Nie, nie gniewam się, ponieważ jednak
 jestem szczera, przyznaję, że chciałam
 nie odpisać wcale, czemu--wyjaśnię to
@@ -3591,12 +3601,12 @@ kiedyś...
 Panie Ada, niech się pan nie broni
 i niech pan idzie za tem, co jest w panu.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Dłoni od pana panu Marjanowi nie
 uścisnę, ani teraz, ani nigdy, mimo to proszę
 o przysłanie pod oficjalnym adresem
@@ -3624,12 +3634,12 @@ miasta razem, pan zresztą wie o tem,
 rzecz ułożona, tylko trzeba umieć doprowadzić,
 ale ja potrafię.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Widzi pan, że i panu się podoba ta
 nasza wspólna podróż, tyle godzin będziemy
 jechali obok siebie, może w oddzielnym
@@ -3646,12 +3656,12 @@ nas oboje i doszłam do wniosku, że inaczej
 być nie może, niechże pan już nie
 wraca do tego.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Zawsze zapominam napisać, że podówczas
 przy odjeździe pańskim w te litewskie
 bory, ów „pan“, który odprowadzał
@@ -3684,12 +3694,12 @@ w rękę, nie mogę tak zakończyć mego listu
 do pana, gdybym jednak mogła, to pocałowałabym
 go oczywiście nie w rękę.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 I już pan jest na miejscu i wszystkie
 nasze piękne projekty spełzły i nie pojechaliśmy
 razem. Tak się wszystko stało,
@@ -3706,12 +3716,12 @@ Oto i pan odczuł trochę rewolucję,
 to dobrze, inaczej nie miałby pan o niej
 pojęcia.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Byłabym zaraz odpisała, lecz jak na
 złość cały dzień goście. Okropnie teraz
 nudzę się z ludźmi, chcę tylko już prędko
@@ -3731,12 +3741,12 @@ ja.
 Czyż zresztą wszystko nie jest mydlaną
 bańką, to, jako i tamto?...
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Wie pan, taka przykra rzecz! Szłam
 w samo południe wrzucić list do pana,
 w ciepłe, słoneczne południe i nagle--na
@@ -3791,12 +3801,12 @@ tamta nasza, wonna róża i jak krew, która
 jeszcze parując, ściekała z jego przestrzelonej
 młodej głowy?
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Wczoraj dopiero otrzymałam kartki
 pańskie obie razem. Sprawa mego wyjazdu
 wyjaśnia się, prawie wszystko gotowe,
@@ -3809,10 +3819,10 @@ pomysł spotkania mnie w drodze.
 Proszę, czekając na depeszę, myśleć
 o mnie.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
 „Proszę, czekając na depeszę, myśleć
 o mnie“.
@@ -7047,7 +7057,7 @@ w polu drzew.
 
 <tb>
 
-/#
+<quote>
 Nie wiem czemu, ale mam wrażenie,
 iż piszę do ciebie po raz ostatni w ten
 sposób, że już nigdy te słowa, których miałam
@@ -7183,12 +7193,12 @@ realizuj, ja nie staję na przeszkodzie!
 Stworzony zostałeś na cudnego kochanka,
 sam zrobisz z siebie banalnego mieszczucha.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 I oto nie wiadomo, czy mój list dojdzie
 ciebie, w kilka godzin po wrzuceniu
 go do puszki dowiedziałam się, iż rozpoczął
@@ -7302,10 +7312,10 @@ Myśl o tym dniu pierwszym... najpierwszym
 i myśl o chwili, z której wyłania
 się wieczność.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
 Lilith już w drodze na jednej ze stacji
 kreśliła na niebieskim urzędowym blankiecie
@@ -8769,7 +8779,7 @@ zgryzoty wspomnień.
 
 <tb>
 
-/#
+<quote>
 Gram komedję cynizmu! Czy pan
 istotnie w nią uwierzył? bo że inni, ale
 pan...
@@ -8796,12 +8806,12 @@ Jeśli jednak kiedy do tego dojdzie, będzie
 to pańska zbrodnia, jaka się nademną
 stanie.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 List tamten był bezsensowny, chwila
 rozstroju... minęło... patrzę trzeźwiej. Doprawdy,
 możnaby posądzić mnie o sentymentalizm
@@ -8865,12 +8875,12 @@ sobie o mnie i... przyjdź. Jeśli nie będzie
 już we mnie szału, to dam ci jego
 wspomnienie.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Pamięta pan popołudnie, w którem
 byłam u niego?--naturalnie wiem, że pan
 pamięta.
@@ -9018,12 +9028,12 @@ wciąż jesteśmy dzikiem plemieniem,
 różnica: że tak zwani dzicy stroją
 ciała swe w blaszki, a my stroimy--dusze.
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Oto był jeden „pan“, który od trzech
 lat nie tracił nadziei, jakże ten właśnie pan
 mógłby się z nas śmiać, gdyby wiedział...
@@ -9153,12 +9163,12 @@ względem pana...
 
 Powtarzam: gardzę panem!
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 I oto minął rok i miesiąc od owego
 dnia.
 
@@ -9394,12 +9404,12 @@ było ciebie, ale czy będziesz?... czy jeszcze
 kiedy przyjdziesz do mnie ze szkarłatną różą,
 Ada?
 
-/*
+<l %SIGN%>
 Lilith.
-*/
-#/
+</l>
+</quote>
 
-/#
+<quote>
 Przeszedł rok od czasu, gdy widzieliśmy
 się po raz ostatni.
 
@@ -9548,13 +9558,13 @@ I błogosław!
 jasnowłosy paziu z czarodziejskiej bajki,
 żegnaj i nie złorzecz mi więcej!
 
-/*
+<l %SIGN%>
 Lilith.
-*/
+</l>
 
-/*
+<l rend="ml:4em">
 P. S.
-*/
+</l>
 
 Powiem ci jeszcze na tej ostatniej kartce,
 że spotkałam człowieka, którego powinnam
@@ -9658,10 +9668,11 @@ po tysiąc razy i może kiedy przejdziesz
 obok niego bezświadomy, choć ciekawości
 pełen.
 
-/*
+<l %SIGN%>
 L.
-*/
-#/
+</l>
+</quote>
 
 
 Warszawa, 1905-1907.
+<!-- end of misteryum.src -->
