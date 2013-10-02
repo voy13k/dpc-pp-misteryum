@@ -4,7 +4,6 @@
 <meta name="DC.Title" content="Misteryum">
 <meta name="DC.Language" content="pl">
 <meta name="DC.Created" content="1909">
-<macro SIGN='rend="mr:2em"'>
 
 
 
@@ -3208,9 +3207,7 @@ się o godzinie, w której Lilith wyjechała.
 --Jest mi przerażająco smutno w tej
 powrotnej drodze, panie Ada!
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 Przyszły do Adama te pierwsze pisane
@@ -3238,9 +3235,7 @@ pomieścić się nie chcą, a streścićby je można
 tak prędko i krótko, lecz po co? może
 doprawdy to wszystko ułuda?
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3265,9 +3260,7 @@ na którą tak bardzo długo oczekiwałam,
 sądzę, że zawsze tak nie będzie i proszę,
 aby tak nie było.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3296,15 +3289,11 @@ i tylko jasność pańskiej odkrytej głowy
 majaczyła, jak zjawisko w smutnym
 śnie.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
-<l rend"center">
-po północy:
-</l>
+<l rend"center">po północy:</l>
 
 Widzę z tych paru słów pańskich,
 napisanych na prędce, że uczyniłam panu
@@ -3336,9 +3325,7 @@ górskich wycieczek.
 Czy są chwile, w których pan o niej
 myśli?
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3353,9 +3340,7 @@ stało.
 Jak to dobrze, iż pomiędzy nami znowu
 harmonja!
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3365,9 +3350,7 @@ tak potrwa, to nie przyjadę, aż kiedy,
 kiedy... A mieliśmy się zobaczyć za dni
 kilkanaście.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3420,9 +3403,7 @@ Gdzież się podziewa urok przenoszenia
 odruchów duszy? Czy pan pamięta,
 jak mnie pan prosił, abym pisała?
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3446,9 +3427,7 @@ mógł wiedzieć, jak się męczę i co we mnie
 jest... to byłby pan innym... choć ja wiem,
 że pan będzie innym i pójdzie za mną.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3463,9 +3442,7 @@ pańskie oczy, gdy czasem tak bardzo zciemniały
 i takie były inne, szczególne i spoglądały
 na mnie dziwnie, dziwnie...
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3492,9 +3469,7 @@ po co więc usiłować!
 Wkrótce zobaczymy się, bo się zobaczyć
 musimy.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3523,9 +3498,7 @@ innym. Czy jednak potrafię przemienić
 pana? Czasami w to wątpię i mam
 ochotę od pana odejść.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3546,9 +3519,7 @@ Czekam odpowiedzi. Posłałam przedtem
 do pana znowu zły list, proszę wybaczyć,
 byłam bardzo rozdrażniona.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3601,9 +3572,7 @@ kiedyś...
 Panie Ada, niech się pan nie broni
 i niech pan idzie za tem, co jest w panu.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3634,9 +3603,7 @@ miasta razem, pan zresztą wie o tem,
 rzecz ułożona, tylko trzeba umieć doprowadzić,
 ale ja potrafię.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3656,9 +3623,7 @@ nas oboje i doszłam do wniosku, że inaczej
 być nie może, niechże pan już nie
 wraca do tego.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3694,9 +3659,7 @@ w rękę, nie mogę tak zakończyć mego listu
 do pana, gdybym jednak mogła, to pocałowałabym
 go oczywiście nie w rękę.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3716,9 +3679,7 @@ Oto i pan odczuł trochę rewolucję,
 to dobrze, inaczej nie miałby pan o niej
 pojęcia.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3741,9 +3702,7 @@ ja.
 Czyż zresztą wszystko nie jest mydlaną
 bańką, to, jako i tamto?...
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3801,9 +3760,7 @@ tamta nasza, wonna róża i jak krew, która
 jeszcze parując, ściekała z jego przestrzelonej
 młodej głowy?
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -3819,9 +3776,7 @@ pomysł spotkania mnie w drodze.
 Proszę, czekając na depeszę, myśleć
 o mnie.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 „Proszę, czekając na depeszę, myśleć
@@ -7193,9 +7148,7 @@ realizuj, ja nie staję na przeszkodzie!
 Stworzony zostałeś na cudnego kochanka,
 sam zrobisz z siebie banalnego mieszczucha.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -7312,9 +7265,7 @@ Myśl o tym dniu pierwszym... najpierwszym
 i myśl o chwili, z której wyłania
 się wieczność.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 Lilith już w drodze na jednej ze stacji
@@ -8806,9 +8757,7 @@ Jeśli jednak kiedy do tego dojdzie, będzie
 to pańska zbrodnia, jaka się nademną
 stanie.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -8875,9 +8824,7 @@ sobie o mnie i... przyjdź. Jeśli nie będzie
 już we mnie szału, to dam ci jego
 wspomnienie.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -9028,9 +8975,7 @@ wciąż jesteśmy dzikiem plemieniem,
 różnica: że tak zwani dzicy stroją
 ciała swe w blaszki, a my stroimy--dusze.
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -9163,9 +9108,7 @@ względem pana...
 
 Powtarzam: gardzę panem!
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -9404,9 +9347,7 @@ było ciebie, ale czy będziesz?... czy jeszcze
 kiedy przyjdziesz do mnie ze szkarłatną różą,
 Ada?
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 </quote>
 
 <quote>
@@ -9558,13 +9499,9 @@ I błogosław!
 jasnowłosy paziu z czarodziejskiej bajki,
 żegnaj i nie złorzecz mi więcej!
 
-<l %SIGN%>
-Lilith.
-</l>
+<l rend='mr:2em'>Lilith.</l>
 
-<l rend="ml:4em">
-P. S.
-</l>
+<l rend="ml:4em">P. S.</l>
 
 Powiem ci jeszcze na tej ostatniej kartce,
 że spotkałam człowieka, którego powinnam
@@ -9668,9 +9605,7 @@ po tysiąc razy i może kiedy przejdziesz
 obok niego bezświadomy, choć ciekawości
 pełen.
 
-<l %SIGN%>
-L.
-</l>
+<l rend='mr:2em'>L.</l>
 </quote>
 
 
