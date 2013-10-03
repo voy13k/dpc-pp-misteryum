@@ -1,3 +1,6 @@
+<macro SIGN="rend='mr:2em'"/>
+<macro TB="rend='w:4em mt:2em mb:2em'"/>
+<macro Q="rend='mt:2em mb:2em'"/>
 <!-- this is misteryum.src as of 29-Sep-2013 -->
 <property name='display title' content="H. O. Garlikowska - Misteryum">
 <meta name="DC.Creator" content="Helena Orlicz-Garlikowska">
@@ -5,6 +8,21 @@
 <meta name="DC.Language" content="pl">
 <meta name="DC.Created" content="1909">
 
+<if type='hep'>
+<lit>
+<style type="text/css">
+p {
+text-indent:2em;
+margin-top:0;
+margin-bottom:0;
+}
+div.blockquote {
+margin-top:2em;
+margin-bottom:2em;
+}
+</style>
+</lit>
+</if>
 
 
 
@@ -25,15 +43,17 @@
 <l rend="fs:1.1em">1909.</l>
 </lg>
 
+<pb>
 
 
 
-<tb rend="st:double w:100%">
 
 <lg rend="center fs:0.8em">
 Druk L. Bilińskiego i W. Maślankiewicza,
 Nowogrodzka 17.
 </lg>
+
+<pb>
 
 
 
@@ -197,7 +217,7 @@ twarz Marjana, swego męża.
 Zrobiło się jej przykro, zapomniała
 bowiem, że ma męża, że ma rodzinę.
 
-<tb>
+<tb %TB%>
 
 Z konieczności rzeczy przebywali z sobą
 całe dnie i prowadzili długie rozmowy,
@@ -264,7 +284,7 @@ poczem położył go przy łóżku, nie przestając
 myśleć o nim, był jednak zmęczony
 i wkrótce usnął, wciąż czując zapach.
 
-<tb>
+<tb %TB%>
 
 Zaspał, wstał późno, gdy zszedł na
 dół\ — <g>jej</g> nie było. Zobaczyli się dopiero
@@ -1064,7 +1084,7 @@ w siebie jej miłosną woń i żałował,
 róż i że tę cudną szkarłatną różę ma tylko
 Lilith!
 
-<tb>
+<tb %TB%>
 
 Poszła na górę, aby umyć ręce, Adam
 został jeszcze na werandzie, gdy za chwilę
@@ -1208,7 +1228,7 @@ okazania czegoś... A jednak rozumieli
 w tej chwili oboje, czemu ich oczy tak
 śledczo splotły się z sobą.
 
-<tb>
+<tb %TB%>
 
 Odtąd co dnia znajdował Adam jakiś
 kwiat w swym pokoju, nigdy jednak
@@ -1346,7 +1366,7 @@ nie daje mu spokoju nawet we śnie.
 Uczuł gniew i postanowił raz na zawsze
 pozbyć się jej z pamięci.
 
-<tb>
+<tb %TB%>
 
 Spostrzegli nagle, że zbłądzili, wysunęli
 się naprzód bezwiednie, z początku
@@ -1839,7 +1859,7 @@ nadać inne, głębsze znaczenie, i znów ujrzał
 tylko półuśmiech, który obiecywał,
 a nie dawał żadnego wyjaśnienia.
 
-<tb>
+<tb %TB%>
 
 Był zły na siebie, a jeszcze bardziej
 na nią o takie głupstwo i powiedziała mu
@@ -2262,7 +2282,7 @@ z podejściem doświadczonej kobiety, powiedziała:
 — Czuję aż tutaj\ — tak pachnie zawsze
 pani Lilith.
 
-<tb>
+<tb %TB%>
 
 Sala, w której się ów raut, przeplatany
 tańcami, odbywał, okazała się bardzo
@@ -2481,7 +2501,7 @@ i rodzaj bojaźni przed tem czemś nieujętem,
 a groźnem, co nagle wypłynęło ku
 niemu od tej szczególnej kobiety.
 
-<tb>
+<tb %TB%>
 
 W całym ogromnym pokoju było
 ciemno.
@@ -2674,7 +2694,7 @@ dla niej, po nad innymi i nagle teraz kopnęła
 go, jak się kopie głupiego psa, który
 nie zna tresury.
 
-<tb>
+<tb %TB%>
 
 Był ciemny, chłodny wieczór bez księżyca,
 gwiazdy iskrzyły się, jak w mroźną
@@ -2980,7 +3000,7 @@ z powrotem wzdłóż białej doliny, która
 w czerni nocnej majaczyła, jak długie,
 blade pasmo płowego warkocza.
 
-<tb>
+<tb %TB%>
 
 — Już jutro\ — wyrzekł Adam przez
 zaciśnięte zęby.
@@ -3201,13 +3221,13 @@ do snu.
 Nocy tej spał tak mocno, iż nie obudził
 się o godzinie, w której Lilith wyjechała.
 
-<tb>
+<tb %TB%>
 
-<quote>
+<quote %Q%>
 — Jest mi przerażająco smutno w tej
 powrotnej drodze, panie Ada!
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
 Przyszły do Adama te pierwsze pisane
@@ -3215,7 +3235,7 @@ jej słowa na malowanej kartce, potem,
 gdy już wrócił do siebie i pracy, przyszła
 druga.
 
-<quote>
+<quote %Q%>
 — Siedzę w błękitnem pudełku swego
 pokoju i ślę obiecaną kartkę, ta z drogi
 była tylko niespodziewanym dodatkiem.
@@ -3235,10 +3255,10 @@ pomieścić się nie chcą, a streścićby je można
 tak prędko i krótko, lecz po co? może
 doprawdy to wszystko ułuda?
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 — Szczerość uważam za konieczność,
 pisanie jest to bowiem łączenie myśli z myślą.
 Konwenans już tylu ludziom psuje
@@ -3260,10 +3280,10 @@ na którą tak bardzo długo oczekiwałam,
 sądzę, że zawsze tak nie będzie i proszę,
 aby tak nie było.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 — Księżyc jest wprost mego okna
 i patrzy na mnie, jak wtedy na nas, gdy
 po raz pierwszy szliśmy oboje wysrebrzoną
@@ -3289,11 +3309,11 @@ i tylko jasność pańskiej odkrytej głowy
 majaczyła, jak zjawisko w smutnym
 śnie.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
-<l rend"center">po północy:</l>
+<quote %Q%>
+<l rend="center mb:1em">po północy:</l>
 
 Widzę z tych paru słów pańskich,
 napisanych na prędce, że uczyniłam panu
@@ -3325,10 +3345,10 @@ górskich wycieczek.
 Czy są chwile, w których pan o niej
 myśli?
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Teraz, po wysłaniu listu, odebrałam
 pańską kartę, natychmiast więc donoszę
 o tem.
@@ -3340,20 +3360,20 @@ stało.
 Jak to dobrze, iż pomiędzy nami znowu
 harmonja!
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Chora jestem: gorączka, kaszel, rozdrażnienie
 i bezsenność, czyli nerwy. Jeśli
 tak potrwa, to nie przyjadę, aż kiedy,
 kiedy... A mieliśmy się zobaczyć za dni
 kilkanaście.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Naturalnie nie powinnam już pisać
 do pana wcale, jego bowiem impertynenckie
 milczenie mówi za siebie.
@@ -3403,10 +3423,10 @@ Gdzież się podziewa urok przenoszenia
 odruchów duszy? Czy pan pamięta,
 jak mnie pan prosił, abym pisała?
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Chce pan, abym wytłómaczyła, czemu
 postanowiłam nie pisać więcej. Piszę
 zanadto szczerze, a wiem, iż się to panu
@@ -3427,10 +3447,10 @@ mógł wiedzieć, jak się męczę i co we mnie
 jest... to byłby pan innym... choć ja wiem,
 że pan będzie innym i pójdzie za mną.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Chodziłam po list\ — i zawód. Wróciłam
 późno wieczorem i na biurku swojem
 znalazłam wiązankę z róż, gwoździków
@@ -3442,10 +3462,10 @@ pańskie oczy, gdy czasem tak bardzo zciemniały
 i takie były inne, szczególne i spoglądały
 na mnie dziwnie, dziwnie...
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Nie zgadzam się, że pan nie umie
 pisać, zresztą nie idzie mi o piśmiennicze
 arcydzieła, ale o szczere słowo.
@@ -3469,10 +3489,10 @@ po co więc usiłować!
 Wkrótce zobaczymy się, bo się zobaczyć
 musimy.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Panie Ada, doprawdy żal mi naszych
 wspólnych wieczorów i wszystkich tamtych
 chwil... Podówczas bowiem wiedziałam,
@@ -3498,10 +3518,10 @@ innym. Czy jednak potrafię przemienić
 pana? Czasami w to wątpię i mam
 ochotę od pana odejść.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 W tej chwili otrzymałam kartę, nie
 mogę jej zrozumieć. Co to ma znaczyć:
 „będę w przejeździe i mam nadzieję zobaczyć
@@ -3519,10 +3539,10 @@ Czekam odpowiedzi. Posłałam przedtem
 do pana znowu zły list, proszę wybaczyć,
 byłam bardzo rozdrażniona.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Nie, nie gniewam się, ponieważ jednak
 jestem szczera, przyznaję, że chciałam
 nie odpisać wcale, czemu\ — wyjaśnię to
@@ -3572,10 +3592,10 @@ kiedyś...
 Panie Ada, niech się pan nie broni
 i niech pan idzie za tem, co jest w panu.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Dłoni od pana panu Marjanowi nie
 uścisnę, ani teraz, ani nigdy, mimo to proszę
 o przysłanie pod oficjalnym adresem
@@ -3603,10 +3623,10 @@ miasta razem, pan zresztą wie o tem,
 rzecz ułożona, tylko trzeba umieć doprowadzić,
 ale ja potrafię.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Widzi pan, że i panu się podoba ta
 nasza wspólna podróż, tyle godzin będziemy
 jechali obok siebie, może w oddzielnym
@@ -3623,10 +3643,10 @@ nas oboje i doszłam do wniosku, że inaczej
 być nie może, niechże pan już nie
 wraca do tego.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Zawsze zapominam napisać, że podówczas
 przy odjeździe pańskim w te litewskie
 bory, ów „pan“, który odprowadzał
@@ -3659,10 +3679,10 @@ w rękę, nie mogę tak zakończyć mego listu
 do pana, gdybym jednak mogła, to pocałowałabym
 go oczywiście nie w rękę.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 I już pan jest na miejscu i wszystkie
 nasze piękne projekty spełzły i nie pojechaliśmy
 razem. Tak się wszystko stało,
@@ -3679,10 +3699,10 @@ Oto i pan odczuł trochę rewolucję,
 to dobrze, inaczej nie miałby pan o niej
 pojęcia.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Byłabym zaraz odpisała, lecz jak na
 złość cały dzień goście. Okropnie teraz
 nudzę się z ludźmi, chcę tylko już prędko
@@ -3702,10 +3722,10 @@ ja.
 Czyż zresztą wszystko nie jest mydlaną
 bańką, to, jako i tamto?...
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Wie pan, taka przykra rzecz! Szłam
 w samo południe wrzucić list do pana,
 w ciepłe, słoneczne południe i nagle\ — na
@@ -3760,10 +3780,10 @@ tamta nasza, wonna róża i jak krew, która
 jeszcze parując, ściekała z jego przestrzelonej
 młodej głowy?
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Wczoraj dopiero otrzymałam kartki
 pańskie obie razem. Sprawa mego wyjazdu
 wyjaśnia się, prawie wszystko gotowe,
@@ -3776,7 +3796,7 @@ pomysł spotkania mnie w drodze.
 Proszę, czekając na depeszę, myśleć
 o mnie.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
 „Proszę, czekając na depeszę, myśleć
@@ -4027,7 +4047,7 @@ najskrytszem, przepotężnem, nieujawnionem
 pragnieniem, co wskroś, mimo wiedzy,
 przepajało jego pobudzoną duszę.
 
-<tb>
+<tb %TB%>
 
 Lilith stanęła w oknie wagonu i patrzyła
 przez szybę. Zanim się jeszcze pociąg
@@ -4471,7 +4491,7 @@ metalowy pierścień.
 Prędko zdmuchnęła świecę, rzuciła się
 na łóżko i już bez żadnej myśli usnęła natychmiast.
 
-<tb>
+<tb %TB%>
 
 Rano, zaledwie uczesała się, ktoś zapukał
 zlekka do drzwi i wszedł Adam.
@@ -4799,7 +4819,7 @@ się za nim zbyt głośno, roznosząc
 hałaśliwe echo po cichym korytarzu
 uśpionego hotelu.
 
-<tb>
+<tb %TB%>
 
 — Czekam na panią już przeszło półtorej
 godziny\ — wyrzekł zniecierpliwionym
@@ -4925,7 +4945,7 @@ bezsilnym, upadłym głosem:
 
 — Przyjdę.
 
-<tb>
+<tb %TB%>
 
 Grano „Kordjana“. Kiedyś Lilith marzyła
 o tym cudnym poemacie, dziś słuchała
@@ -5087,7 +5107,7 @@ do siebie, do swego kawalerskiego
 pokoju, na nieznośną, nieskończoną, samotną,
 bezsenną noc.
 
-<tb>
+<tb %TB%>
 
 Następnego dnia przyszedł, zaledwie
 wstała, i razem wyszli na miasto, po południu
@@ -5369,7 +5389,7 @@ powinno!
 Rozpaczliwym wysiłkiem Adam wyrwał
 się z objęć Lilith i... uciekł.
 
-<tb>
+<tb %TB%>
 
 Po wyjściu Adama opanowało Lilith
 szalone rozdrażnienie, poprostu przeświadczenie,
@@ -5907,7 +5927,7 @@ być dziwem i już nie było rzeczy tajnych
 między Adamem i Lilith\ — byli świadomi
 siebie.
 
-<tb>
+<tb %TB%>
 
 Najniespodziewaniej usłyszeli dobieranie
 się do drzwi, Adam w przerażeniu wyskoczył
@@ -6015,7 +6035,7 @@ I na nowo ramiona ich wyciągnęły
 się wzajem, zganiając zmorę budzącego się
 mózgu.
 
-<tb>
+<tb %TB%>
 
 Następnego dnia Adam wyszedł tak
 późno od Lilith, że gdy powrócił od siebie
@@ -6298,7 +6318,7 @@ a wciąż odradzających się tworów.
 
 Mane, Tekel, Fares.
 
-<tb>
+<tb %TB%>
 
 Rano Adam wrócił, przyszedł, jak
 gdyby nie było dnia wczorajszego.
@@ -6498,7 +6518,7 @@ nie miały ochoty się rozłączyć.
 Patrząc sobie w oczy, szeptali ciche
 słowa jeszcze bardzo długo.
 
-<tb>
+<tb %TB%>
 
 Przyniósł jej pęk egzotycznych blado
 różowych kwiatów, ujęła je i obracała
@@ -6522,7 +6542,7 @@ ustami.
 Po północy poszedł do siebie, pomimo,
 iż namawiała go, by został.
 
-<tb>
+<tb %TB%>
 
 Gdy wszedł następnego ranka do jej
 pokoju, była już ubraną do drogi w swój
@@ -7010,9 +7030,9 @@ piekąca łza i zamigotała na nim w słońcu,
 jak szron na kiściach mijanych, mrących
 w polu drzew.
 
-<tb>
+<tb %TB%>
 
-<quote>
+<quote %Q%>
 Nie wiem czemu, ale mam wrażenie,
 iż piszę do ciebie po raz ostatni w ten
 sposób, że już nigdy te słowa, których miałam
@@ -7148,10 +7168,10 @@ realizuj, ja nie staję na przeszkodzie!
 Stworzony zostałeś na cudnego kochanka,
 sam zrobisz z siebie banalnego mieszczucha.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 I oto nie wiadomo, czy mój list dojdzie
 ciebie, w kilka godzin po wrzuceniu
 go do puszki dowiedziałam się, iż rozpoczął
@@ -7265,7 +7285,7 @@ Myśl o tym dniu pierwszym... najpierwszym
 i myśl o chwili, z której wyłania
 się wieczność.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
 Lilith już w drodze na jednej ze stacji
@@ -7799,7 +7819,7 @@ znajomych, poczem poszła prosto na dworzec,
 skąd w godzinę odjechała, mając złośliwego
 chichotu pełne usta.
 
-<tb>
+<tb %TB%>
 
 Ciepłe majowe wieczory, przesiąkłe
 rozrodczością, przepajały Lilith nawskroś
@@ -8179,7 +8199,7 @@ do dorożki i kazała jechać prędko.
 Adam odszedł w przeciwną stronę
 i oboje nie obejrzeli się ani razu.
 
-<tb>
+<tb %TB%>
 
 Jeszcze jedyny raz zobaczyć go, a potem
 odjechać i już nazawsze się odeń oderwać,
@@ -8565,7 +8585,7 @@ i splata mocno niewzruszony łańcuch.
 Teraz już wiedziała, że szkoda wysiłków...
 człowiek ten urodził się na... niewolnika.
 
-<tb>
+<tb %TB%>
 
 Otworzyła drzwi, które zaskrzypiały,
 jak cmętarne bramy.
@@ -8728,9 +8748,9 @@ Nagle doleciał go jeszcze jej głośny
 spokoju duszy, jak drętwiejące palce wiecznej
 zgryzoty wspomnień.
 
-<tb>
+<tb %TB%>
 
-<quote>
+<quote %Q%>
 Gram komedję cynizmu! Czy pan
 istotnie w nią uwierzył? bo że inni, ale
 pan...
@@ -8757,10 +8777,10 @@ Jeśli jednak kiedy do tego dojdzie, będzie
 to pańska zbrodnia, jaka się nademną
 stanie.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 List tamten był bezsensowny, chwila
 rozstroju... minęło... patrzę trzeźwiej. Doprawdy,
 możnaby posądzić mnie o sentymentalizm
@@ -8824,10 +8844,10 @@ sobie o mnie i... przyjdź. Jeśli nie będzie
 już we mnie szału, to dam ci jego
 wspomnienie.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Pamięta pan popołudnie, w którem
 byłam u niego?\ — naturalnie wiem, że pan
 pamięta.
@@ -8975,10 +8995,10 @@ wciąż jesteśmy dzikiem plemieniem,
 różnica: że tak zwani dzicy stroją
 ciała swe w blaszki, a my stroimy\ — dusze.
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Oto był jeden „pan“, który od trzech
 lat nie tracił nadziei, jakże ten właśnie pan
 mógłby się z nas śmiać, gdyby wiedział...
@@ -9108,10 +9128,10 @@ względem pana...
 
 Powtarzam: gardzę panem!
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 I oto minął rok i miesiąc od owego
 dnia.
 
@@ -9347,10 +9367,10 @@ było ciebie, ale czy będziesz?... czy jeszcze
 kiedy przyjdziesz do mnie ze szkarłatną różą,
 Ada?
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 </quote>
 
-<quote>
+<quote %Q%>
 Przeszedł rok od czasu, gdy widzieliśmy
 się po raz ostatni.
 
@@ -9499,9 +9519,9 @@ I błogosław!
 jasnowłosy paziu z czarodziejskiej bajki,
 żegnaj i nie złorzecz mi więcej!
 
-<l rend='mr:2em'>Lilith.</l>
+<l %SIGN%>Lilith.</l>
 
-<l rend="ml:4em">P. S.</l>
+<l rend="ml:0 mb:1em">P. S.</l>
 
 Powiem ci jeszcze na tej ostatniej kartce,
 że spotkałam człowieka, którego powinnam
@@ -9605,9 +9625,12 @@ po tysiąc razy i może kiedy przejdziesz
 obok niego bezświadomy, choć ciekawości
 pełen.
 
-<l rend='mr:2em'>L.</l>
+<l %SIGN%>L.</l>
 </quote>
 
 
-Warszawa, 1905-1907.
+<l rend='center'>Warszawa, 1905-1907.</l>
+
+<tb %TB%>
+
 <!-- end of misteryum.src -->
