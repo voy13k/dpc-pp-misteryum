@@ -3322,7 +3322,7 @@ wiem, jakim się to stało sposobem.
 
 Nieporozumienie, a z niem\ — dysonans,
 myślę jednak, że nanowo zapanuje
-harmonja. Jak pan widzi, mimowolna przykrość,
+harmonja. Jak pan widzi mimowolna przykrość,
 jakiej pan doznał, przyszła aż do
 mnie i to tak dalece, że aż czuję potrzebę
 dłuższego porozumienia się z nim i piszę
@@ -9628,9 +9628,54 @@ pełen.
 <l %SIGN%>L.</l>
 </quote>
 
+<tb %TB%>
 
 <l rend='center'>Warszawa, 1905-1907.</l>
 
-<tb %TB%>
+<pb>
+
+UWAGI DO WYDANIA ELEKTRONICZNEGO
+
+Zachowano oryginalną ortografię i interpunkcję, również w wypadkach,
+gdy odbiegały one od współcześnie przyjętych. Poprawiono natomiast
+wymienionymi niżej omyłki, które wyglądały na błędy w druku:
+
+<table pattern='r c c'>
+strona w druku | błąd w druku | poprawiono na
+ 35 | rumieniec      | rumieniec.
+ 37 | powracała      | powracała,
+ 41 | energji.       | energji,
+ 42 | loiki          | logiki
+ 44 | oczekujacy     | oczekujący
+ 44 | lekiem         | lekkiem
+ 46 | zię            | się
+ 51 | kłamsto        | kłamstwo
+ 65 | znaczaco       | znacząco
+ 76 | juź            | już
+ 77 | walka          | walką
+ 83 | wen            | weń
+ 95 | loiki          | logiki
+ 96 | z panem.       | z panem?
+ 97 | postępuje      | postępuję
+100 | pociagi        | pociągi
+101 | Rosterka       | Rozterka
+134 | oden           | odeń
+153 | szczęścic      | szczęście
+155 | wszystko jedno | wszystko jedno.
+157 | mężczyn        | mężczyzn
+165 | zrucanego      | zrzucanego
+176 | pzzemów        | przemów
+184 | by został      | by został.
+196 | zemigotała     | zamigotała
+207 | ze             | że
+208 | ze             | że
+234 | pzzewidziałby  | przewidziałby
+235 | twarzy Lilith, | twarzy Lilith.
+249 | siebię         | siebie
+251 | rozdieliło     | rozdzieliło
+260 | istu           | listu
+267 | kwiatow        | kwiatów
+274 | głębię         | głębie
+</table>
 
 <!-- end of misteryum.src -->
