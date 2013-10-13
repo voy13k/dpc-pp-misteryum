@@ -3313,7 +3313,11 @@ majaczyła, jak zjawisko w smutnym
 </quote>
 
 <quote %Q%>
-<l rend="center mb:1em">po północy:</l>
+
+<lg rend='center'>
+<l>po północy:</l>
+
+</lg>
 
 Widzę z tych paru słów pańskich,
 napisanych na prędce, że uczyniłam panu
@@ -9521,7 +9525,8 @@ jasnowłosy paziu z czarodziejskiej bajki,
 
 <l %SIGN%>Lilith.</l>
 
-<l rend="ml:0 mb:1em">P. S.</l>
+<l>\ </l>
+<l rend="mb:1em">P. S.</l>
 
 Powiem ci jeszcze na tej ostatniej kartce,
 że spotkałam człowieka, którego powinnam
@@ -9634,48 +9639,53 @@ pełen.
 
 <pb>
 
-UWAGI DO WYDANIA ELEKTRONICZNEGO
+
+<quote rend='fs:0.8em'>
+
+<l rend='center'>UWAGI DO WYDANIA ELEKTRONICZNEGO</l>
 
 Zachowano oryginalną ortografię i interpunkcję, również w wypadkach,
 gdy odbiegały one od współcześnie przyjętych. Poprawiono natomiast
 wymienionymi niżej omyłki, które wyglądały na błędy w druku:
+</quote>
 
 <table pattern='r c c'>
-strona w druku | błąd w druku | poprawiono na
- 35 | rumieniec      | rumieniec.
- 37 | powracała      | powracała,
- 41 | energji.       | energji,
- 42 | loiki          | logiki
- 44 | oczekujacy     | oczekujący
- 44 | lekiem         | lekkiem
- 46 | zię            | się
- 51 | kłamsto        | kłamstwo
- 65 | znaczaco       | znacząco
- 76 | juź            | już
- 77 | walka          | walką
- 83 | wen            | weń
- 95 | loiki          | logiki
- 96 | z panem.       | z panem?
- 97 | postępuje      | postępuję
-100 | pociagi        | pociągi
-101 | Rosterka       | Rozterka
-134 | oden           | odeń
-153 | szczęścic      | szczęście
-155 | wszystko jedno | wszystko jedno.
-157 | mężczyn        | mężczyzn
-165 | zrucanego      | zrzucanego
-176 | pzzemów        | przemów
-184 | by został      | by został.
-196 | zemigotała     | zamigotała
-207 | ze             | że
-208 | ze             | że
-234 | pzzewidziałby  | przewidziałby
-235 | twarzy Lilith, | twarzy Lilith.
-249 | siebię         | siebie
-251 | rozdieliło     | rozdzieliło
-260 | istu           | listu
-267 | kwiatow        | kwiatów
-274 | głębię         | głębie
+strona |  błąd w druku  | poprawiono na
+       |                |
+ 35\ \ | rumieniec      | rumieniec.
+ 37\ \ | powracała      | powracała,
+ 41\ \ | energji.       | energji,
+ 42\ \ | loiki          | logiki
+ 44\ \ | oczekujacy     | oczekujący
+ 44\ \ | lekiem         | lekkiem
+ 46\ \ | zię            | się
+ 51\ \ | kłamsto        | kłamstwo
+ 65\ \ | znaczaco       | znacząco
+ 76\ \ | juź            | już
+ 77\ \ | walka          | walką
+ 83\ \ | wen            | weń
+ 95\ \ | loiki          | logiki
+ 96\ \ | z panem.       | z panem?
+ 97\ \ | postępuje      | postępuję
+100\ \ | pociagi        | pociągi
+101\ \ | Rosterka       | Rozterka
+134\ \ | oden           | odeń
+153\ \ | szczęścic      | szczęście
+155\ \ | wszystko jedno | wszystko jedno.
+157\ \ | mężczyn        | mężczyzn
+165\ \ | zrucanego      | zrzucanego
+176\ \ | pzzemów        | przemów
+184\ \ | by został      | by został.
+196\ \ | zemigotała     | zamigotała
+207\ \ | ze             | że
+208\ \ | ze             | że
+234\ \ | pzzewidziałby  | przewidziałby
+235\ \ | twarzy Lilith, | twarzy Lilith.
+249\ \ | siebię         | siebie
+251\ \ | rozdieliło     | rozdzieliło
+260\ \ | istu           | listu
+267\ \ | kwiatow        | kwiatów
+274\ \ | głębię         | głębie
 </table>
 
 <!-- end of misteryum.src -->
