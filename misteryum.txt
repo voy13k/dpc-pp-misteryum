@@ -11,15 +11,10 @@
 <if type='hep'>
 <lit>
 <style type="text/css">
-p {
-text-indent:2em;
-margin-top:0;
-margin-bottom:0;
-}
-div.blockquote {
-margin-top:2em;
-margin-bottom:2em;
-}
+      p { text-align: justify; text-indent:1.5em; margin-top:0; margin-bottom:0; }
+      hr.tb100{ border:none; border-bottom:1px solid black; margin:1em 8em 1.5em 8em;  }
+      hr.tb{ border:none; border-bottom:1px solid black; margin:2em 8em 2em 8em;  }
+      div.blockquote { margin:2em 2em 2em; text-align:justify; }
 </style>
 </lit>
 </if>
@@ -28,19 +23,19 @@ margin-bottom:2em;
 
 <lg rend="center">
 <l rend="fs:1.4em">H. O. GARLIKOWSKA.</l>
-<tb rend="w:3em">
-
-<l rend="fs:3em">MISTERYUM.</l>
+<tb rend='w:4em mt:1em mb:1.5em'>
+<l rend="fs:2.5em">MISTERYUM.</l>
 
 <l rend="fs:1.1em">OPOWIEŚĆ EROTYCZNA.</l>
 
-[Illustration]
 
-<l rend="fs:1.1em">WARSZAWA.</l>
+<illustration rend="w:171px center" src="images/img1.png"/>
 
-<l rend="fs:1.1em">E. WENDE i S-ka. (T. HIŹ i A. TURKUŁ).</l>
 
-<l rend="fs:1.1em">1909.</l>
+
+WARSZAWA.
+E. WENDE i S-ka. (T. HIŹ i A. TURKUŁ).
+1909.
 </lg>
 
 <pb>
@@ -49,6 +44,10 @@ margin-bottom:2em;
 
 
 <lg rend="center fs:0.8em">
+
+
+
+
 Druk L. Bilińskiego i W. Maślankiewicza,
 Nowogrodzka 17.
 </lg>
