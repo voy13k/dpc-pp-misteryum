@@ -1,5 +1,5 @@
 <macro SIGN="rend='mr:2em'"/>
-<macro TB="rend='w:4em mt:2em mb:2em'"/>
+<macro TB="rend='w:20% mt:2em mb:2em'"/>
 <macro Q="rend='mt:2em mb:2em'"/>
 <!-- this is misteryum.src as of 29-Sep-2013 -->
 <property name='display title' content="H. O. Garlikowska - Misteryum">
@@ -11,26 +11,24 @@
 <if type='hep'>
 <lit>
 <style type="text/css">
-      p { text-align: justify; text-indent:1.5em; margin-top:0; margin-bottom:0; }
-      hr.tb100{ border:none; border-bottom:1px solid black; margin:1em 8em 1.5em 8em;  }
-      hr.tb{ border:none; border-bottom:1px solid black; margin:2em 8em 2em 8em;  }
-      div.blockquote { margin:2em 2em 2em; text-align:justify; }
+      .text p { text-indent:1.5em; margin-top:0; margin-bottom:0; }
+      .text div.blockquote { margin:2em 2em 2em; }
 </style>
 </lit>
 </if>
 
 
 
+
 <lg rend="center">
 <l rend="fs:1.4em">H. O. GARLIKOWSKA.</l>
-<tb rend='w:4em mt:1em mb:1.5em'>
+<tb rend='w:30% mt:1em mb:1.5em'>
 <l rend="fs:2.5em">MISTERYUM.</l>
 
 <l rend="fs:1.1em">OPOWIEŚĆ EROTYCZNA.</l>
 
 
 <illustration rend="w:171px center" src="images/img1.png"/>
-
 
 
 WARSZAWA.
@@ -56,6 +54,12 @@ Nowogrodzka 17.
 
 
 
+
+<if type='hep'>
+<lit>
+<div class="text">
+</lit>
+</if>
 
 — Przyjechała!\ — powiedziano mu to
 zaraz na wstępie, gdy powrócił.
@@ -9634,9 +9638,17 @@ pełen.
 
 <tb %TB%>
 
+<if type='hep'>
+<lit>
+</div> <!-- end class="text" -->
+</lit>
+</if>
+
 <l rend='center'>Warszawa, 1905-1907.</l>
 
 <pb>
+
+
 
 
 <quote rend='fs:0.8em'>
