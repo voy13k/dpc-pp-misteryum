@@ -1,4 +1,0 @@
-File: misteryum.html
-
-After fpgen run:
-Move <style>...</style> from beginning of <body> to end of <head> .

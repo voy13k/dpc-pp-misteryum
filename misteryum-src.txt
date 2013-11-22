@@ -8,14 +8,12 @@
 <meta name="DC.Language" content="pl">
 <meta name="DC.Created" content="1909">
 
-<if type='hep'>
-<lit>
-<style type="text/css">
+<lit section='head'>
+    <style type="text/css">
       .text p { text-indent:1.5em; margin-top:0; margin-bottom:0; }
       .text div.blockquote { margin:2em 2em 2em; }
-</style>
+    </style>
 </lit>
-</if>
 
 
 
